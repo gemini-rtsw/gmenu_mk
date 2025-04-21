@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+#Exec="BOKEH_BROWSER=firefox bokeh serve --port 5008 --show /home/telops/perm/bin-sos/WFSSkyMonitor\n"
+Icon=/home/telops/sciops/gempyops/scripts/WFSSkyMonitor/static/favicon.png
+Name=WFS Sky Monitor
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=1
+TerminalOptions=
+Type=Application

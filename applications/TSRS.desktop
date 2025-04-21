@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=
+#Exec=tsrs
+Name=TSRS
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

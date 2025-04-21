@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=
+Exec=logTools.tcl
+#Icon=accessories-text-editor
+Name=Nightlog Tools
+NoDisplay=false
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

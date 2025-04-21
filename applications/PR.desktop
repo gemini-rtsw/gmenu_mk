@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=
+Exec=pr_dm.sh
+Name=PR
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

@@ -1,0 +1,7 @@
+#!/usr/bin/xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Directory
+Name=Utilities
+Icon=/home/telops/.local/share/icons/Utilities.png

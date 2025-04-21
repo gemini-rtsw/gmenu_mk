@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=
+#Exec=lhandset
+Name=lhandset
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

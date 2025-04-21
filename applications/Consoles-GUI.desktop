@@ -1,0 +1,5 @@
+[Desktop Entry]
+Comment=
+Exec=consoles.py
+#Icon=nm-device-wired
+Name=Consoles-GUI

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=
+Exec=tleiStart
+Name=TLEI
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

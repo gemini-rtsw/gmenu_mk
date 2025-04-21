@@ -1,0 +1,9 @@
+[Desktop Entry]
+#Comment=
+Exec=xterm -e "ds9"
+Icon=/home/telops/.local/share/icons/ds9.png
+Name=DS9
+#NoDisplay=false
+#StartupNotify=true
+#Terminal=1
+Type=Application

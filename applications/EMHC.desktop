@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=
+Exec=prEMHC_dm.sh
+Name=EMHC
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

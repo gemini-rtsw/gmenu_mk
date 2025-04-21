@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=gemini2
+Exec=ls
+Comment=
+Terminal=true
+Icon=cinnamon-panel-launcher
+Type=Application

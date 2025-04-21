@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=startiraf
+Icon=/home/telops/.local/share/icons/iraf-logo_invblack.png
+Name=IRAF
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=oiwfs_dm.sh
+Icon=/home/telops/.local/share/icons/oiwfs.png
+Name=OIWFS
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

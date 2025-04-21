@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=
+Exec=iocstats ecs
+Icon=/home/telops/.local/share/icons/ecs.png
+Name=ECS
+NoDisplay=false
+Path[$e]=
+StartupNotify=false
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=
+#Exec=ot
+Name=OT
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

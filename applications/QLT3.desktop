@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "$DASPATH/bin/qlt3/QLT3"
+Icon=/home/telops/.local/share/icons/qlt3.png
+Name=QLT3
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

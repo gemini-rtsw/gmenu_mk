@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=
+Exec=startqap-xterm
+Icon=/home/telops/.local/share/icons/qap.png
+Name=QAP Terminal
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

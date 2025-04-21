@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=
+Exec=showinst.tcl GN
+Name=Instrument Manager
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

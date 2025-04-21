@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=
+Exec=ag_dm.sh
+Icon=/home/telops/.local/share/icons/ag.png
+Name=AG
+StartupNotify=true
+Type=Application

@@ -1,0 +1,16 @@
+1. Start GIMP
+2. Create new 100x100 image
+   Advanced Options: Fill with Transparency
+
+3. Set font:
+
+Font: Sans Bold
+Size: 30 px
+Color: R=0 G=0 B=255
+
+4. Add icon text
+5. Trim to have 1-pixel wide border
+6. Save as icon.png
+   > Merge visible layers
+   > uncheck all options
+

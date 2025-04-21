@@ -1,0 +1,8 @@
+[Desktop Entry]
+Comment=
+Exec=altair_dm.sh
+Icon=/home/telops/.local/share/icons/altair.png
+Name=Altair DM
+NoDisplay=false
+StartupNotify=true
+Type=Application

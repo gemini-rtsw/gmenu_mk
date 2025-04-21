@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec= env BOKEH_BROWSER=firefox bokeh serve --show /home/telops/sciops/gempyops/scripts/GuidanceEnvironmentalPlotter
+Icon=/home/telops/sciops/gempyops/scripts/GuidanceEnvironmentalPlotter/static/favicon.png
+Name=GEP
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=1
+TerminalOptions=
+Type=Application

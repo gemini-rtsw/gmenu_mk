@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=GRACES Terminal
+Exec=xterm -e "ssh -Y telops@mkograces1"
+Icon=utilities-terminal
+Name=GRACES Terminal
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

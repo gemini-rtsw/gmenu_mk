@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=
+Exec=python2 /home/telops/sciops/das/bin-gn/showstrip.py
+Name=StripTool
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

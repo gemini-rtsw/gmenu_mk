@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=seqexec
+Icon=media-playback-start
+Name=Seqexec
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

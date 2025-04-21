@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=showBootBars
+Icon=/home/telops/.local/share/icons/bb.png
+Name=Boot Bars
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

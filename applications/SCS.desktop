@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=scs_dm.sh
+Icon=/home/telops/.local/share/icons/scs.png
+Name=SCS
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

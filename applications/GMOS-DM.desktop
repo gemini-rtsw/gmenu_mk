@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=gmos_dm.sh
+Icon=/home/telops/.local/share/icons/gmos.png
+Name=GMOS DM
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

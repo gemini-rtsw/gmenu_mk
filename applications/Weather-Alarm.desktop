@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=weatherAlarm.sh
+Icon=weather-clouds-night
+Name=Weather Alarm
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

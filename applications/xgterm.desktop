@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=
+Exec=/astro/iraf/linux-64/baseline/bin/xgterm -sb -sl 1024 -bg black -fg white -geometry 100x50+1500-0
+Name=xgterm
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

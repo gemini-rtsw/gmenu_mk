@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=tsd
+Icon=/home/telops/.local/share/icons/tsd.png
+Name=TSD
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

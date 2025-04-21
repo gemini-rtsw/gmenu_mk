@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=iocstats mcs
+Icon=/home/telops/.local/share/icons/mcs.png
+Name=MCS
+NoDisplay=false
+Path[$e]=
+StartupNotify=false
+Terminal=0
+TerminalOptions=
+Type=Application

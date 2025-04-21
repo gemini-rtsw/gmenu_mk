@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=
+Exec=showscripts.tcl
+Name=Scripts
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

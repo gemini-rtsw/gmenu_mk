@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=igrins2_engtools.sh
+Icon=preferences-other
+Name=IGRINS-2 Eng Tools
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

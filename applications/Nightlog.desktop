@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=firefox "http://nightlog.hi.gemini.edu/nightlog.html"
+Icon=google-chrome
+Name=Nightlog
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

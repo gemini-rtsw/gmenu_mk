@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=pwfs1_dm.sh
+Icon=/home/telops/.local/share/icons/pwfs1.png
+Name=PWFS1
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

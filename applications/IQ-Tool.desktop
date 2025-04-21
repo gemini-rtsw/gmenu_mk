@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=
+Exec=$DASPATH/bin/iqtool/iqtool.sh
+Name=IQ Tool
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

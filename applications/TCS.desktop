@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=tcsMK_dm.sh
+Icon=/home/telops/.local/share/icons/tcs.png
+Name=TCS
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application

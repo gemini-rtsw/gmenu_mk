@@ -1,0 +1,9 @@
+[Added Associations]
+application/pdf=kde4-okularApplication_pdf.desktop;evince.desktop;inkscape.desktop;libreoffice-draw.desktop;google-chrome.desktop;gimp.desktop;
+image/gif=kde4-gwenview.desktop;kde4-okularApplication_kimgio.desktop;google-chrome.desktop;kde4-kolourpaint.desktop;gimp.desktop;
+image/jpeg=kde4-gwenview.desktop;kde4-okularApplication_kimgio.desktop;google-chrome.desktop;kde4-kolourpaint.desktop;gimp.desktop;kde4-kiconedit.desktop;
+image/png=kde4-gwenview.desktop;kde4-okularApplication_kimgio.desktop;google-chrome.desktop;kde4-kolourpaint.desktop;gimp.desktop;kde4-kiconedit.desktop;
+text/html=google-chrome.desktop
+
+[Default Applications]
+text/html=google-chrome.desktop
