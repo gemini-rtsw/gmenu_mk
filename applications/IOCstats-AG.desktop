@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=iocstats ag
-Icon=/home/telops/.local/share/icons/ag.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/ag.png
 Name=A&G
 NoDisplay=false
 Path[$e]=

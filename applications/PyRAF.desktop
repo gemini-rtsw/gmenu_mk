@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=startpyraf
-Icon=/home/telops/.local/share/icons/pyraflogo_rgb_web.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/pyraflogo_rgb_web.png
 Name=PyRAF
 NoDisplay=false
 Path[$e]=

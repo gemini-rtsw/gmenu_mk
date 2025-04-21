@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=gws_dm.sh
-Icon=/home/telops/.local/share/icons/gws.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/gws.png
 Name=GWS
 NoDisplay=false
 Path[$e]=

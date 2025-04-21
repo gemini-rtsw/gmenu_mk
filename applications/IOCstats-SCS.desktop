@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=iocstats scs
-Icon=/home/telops/.local/share/icons/scs.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/scs.png
 Name=SCS
 NoDisplay=false
 Path[$e]=

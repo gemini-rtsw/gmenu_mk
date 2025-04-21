@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=boss_dm.sh
-Icon=/home/telops/.local/share/icons/boss.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/boss.png
 Name=BOSS
 NoDisplay=false
 Path[$e]=

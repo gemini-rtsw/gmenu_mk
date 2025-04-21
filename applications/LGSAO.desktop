@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=lgsao.sh
-Icon=/home/telops/.local/share/icons/lgsao.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/lgsao.png
 Name=LGSAO
 NoDisplay=false
 Path[$e]=

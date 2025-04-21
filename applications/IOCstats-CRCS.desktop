@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=iocstats crcs
-Icon=/home/telops/.local/share/icons/crcs.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/crcs.png
 Name=CRCS
 NoDisplay=false
 Path[$e]=

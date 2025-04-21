@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=nifs_dm.sh
-Icon=/home/telops/.local/share/icons/nifs.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/nifs.png
 Name=NIFS DM
 NoDisplay=false
 Path[$e]=

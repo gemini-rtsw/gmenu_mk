@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=niri_dm.sh
-Icon=/home/telops/.local/share/icons/niri.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/niri.png
 Name=NIRI DM
 NoDisplay=false
 Path[$e]=

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=tcc.sh
-Icon=/home/telops/.local/share/icons/tcc.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/tcc.png
 Name=TCC
 NoDisplay=false
 Path[$e]=

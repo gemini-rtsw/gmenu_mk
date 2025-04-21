@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=bto_edm.sh
-Icon=/home/telops/.local/share/icons/bto.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/bto.png
 Name=BTO
 NoDisplay=false
 Path[$e]=

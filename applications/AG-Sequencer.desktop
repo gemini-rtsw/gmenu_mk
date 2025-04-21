@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=agSeq_dm.sh
-Icon=/home/telops/.local/share/icons/agseq.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/agseq.png
 Name=A&G Sequencer
 NoDisplay=false
 Path[$e]=

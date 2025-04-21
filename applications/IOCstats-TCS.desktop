@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=iocstats tcs
-Icon=/home/telops/.local/share/icons/tcs.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/tcs.png
 Name=TCS
 NoDisplay=false
 Path[$e]=

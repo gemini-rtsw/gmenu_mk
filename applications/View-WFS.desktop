@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=xterm -geometry 100x80 -bg black -fg white -e view_wfs.py
-Icon=/home/telops/.local/share/icons/vwfs.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/vwfs.png
 Name=View WFS
 NoDisplay=false
 Path[$e]=

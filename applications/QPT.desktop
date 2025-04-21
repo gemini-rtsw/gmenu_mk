@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=qpt
-Icon=/home/telops/.local/share/icons/qpt.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/qpt.png
 Name=QPT
 NoDisplay=false
 Path[$e]=

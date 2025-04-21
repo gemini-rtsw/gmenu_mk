@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=showBootBars
-Icon=/home/telops/.local/share/icons/bb.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/bb.png
 Name=Boot Bars
 NoDisplay=false
 Path[$e]=

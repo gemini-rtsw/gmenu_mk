@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=iroiwfs_dm.sh
-Icon=/home/telops/.local/share/icons/oiwfs.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/oiwfs.png
 Name=OIWFS (NIFS)
 NoDisplay=false
 Path[$e]=

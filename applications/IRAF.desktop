@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=startiraf
-Icon=/home/telops/.local/share/icons/iraf-logo_invblack.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/iraf-logo_invblack.png
 Name=IRAF
 NoDisplay=false
 Path[$e]=

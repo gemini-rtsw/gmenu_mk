@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=iocstats gis
-Icon=/home/telops/.local/share/icons/gis.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/gis.png
 Name=GIS
 NoDisplay=false
 Path[$e]=

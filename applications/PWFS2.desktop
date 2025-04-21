@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=pwfs2_dm.sh
-Icon=/home/telops/.local/share/icons/pwfs2.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/pwfs2.png
 Name=PWFS2
 NoDisplay=false
 Path[$e]=

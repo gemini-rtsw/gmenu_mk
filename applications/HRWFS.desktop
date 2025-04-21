@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=hrwfs_dm.sh
-Icon=/home/telops/.local/share/icons/hrwfs.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/hrwfs.png
 Name=HRWFS
 NoDisplay=false
 Path[$e]=

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=startqap
-Icon=/home/telops/.local/share/icons/qap.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/qap.png
 Name=QAP
 NoDisplay=false
 Path[$e]=

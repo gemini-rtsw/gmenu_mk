@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=gmosISD
-Icon=/home/telops/.local/share/icons/gmos-red.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/gmos-red.png
 Name=GMOS ISD
 NoDisplay=false
 Path[$e]=

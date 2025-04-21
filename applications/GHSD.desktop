@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=ghSDstart
-Icon=/home/telops/.local/share/icons/ghsd.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/ghsd.png
 Name=GHSD
 NoDisplay=false
 Path[$e]=

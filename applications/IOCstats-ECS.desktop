@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=iocstats ecs
-Icon=/home/telops/.local/share/icons/ecs.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/ecs.png
 Name=ECS
 NoDisplay=false
 Path[$e]=

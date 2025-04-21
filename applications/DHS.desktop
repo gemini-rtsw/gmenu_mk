@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=dhscon
-Icon=/home/telops/.local/share/icons/dhs.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/dhs.png
 Name=DHS
 NoDisplay=false
 Path[$e]=

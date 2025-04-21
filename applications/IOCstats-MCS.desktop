@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=iocstats mcs
-Icon=/home/telops/.local/share/icons/mcs.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/mcs.png
 Name=MCS
 NoDisplay=false
 Path[$e]=

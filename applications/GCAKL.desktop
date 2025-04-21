@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=gcal_dm.sh
-Icon=/home/telops/.local/share/icons/gcal.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/gcal.png
 Name=GCAL
 NoDisplay=false
 Path[$e]=

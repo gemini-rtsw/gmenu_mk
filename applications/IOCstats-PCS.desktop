@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=iocstats pcs
-Icon=/home/telops/.local/share/icons/pcs.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/pcs.png
 Name=PCS
 NoDisplay=false
 Path[$e]=

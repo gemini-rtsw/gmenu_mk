@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=gmos_dm.sh
-Icon=/home/telops/.local/share/icons/gmos.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/gmos.png
 Name=GMOS DM
 NoDisplay=false
 Path[$e]=

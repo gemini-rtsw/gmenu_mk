@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=altairISD
-Icon=/home/telops/.local/share/icons/altair-red.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/altair-red.png
 Name=Altair ISD
 NoDisplay=false
 Path[$e]=

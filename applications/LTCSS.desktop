@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=ltcss_edm.sh
-Icon=/home/telops/.local/share/icons/ltcss.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/ltcss.png
 Name=LTCSS
 NoDisplay=false
 Path[$e]=

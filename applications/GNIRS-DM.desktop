@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=gnirsStart.sh
-Icon=/home/telops/.local/share/icons/gnirs.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/gnirs.png
 Name=GNIRS DM
 NoDisplay=false
 Path[$e]=

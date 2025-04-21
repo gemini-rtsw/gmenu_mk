@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
 Exec=gnirsISD
-Icon=/home/telops/.local/share/icons/gnirs-red.png
+Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/gnirs-red.png
 Name=GNIRS ISD
 NoDisplay=false
 Path[$e]=
