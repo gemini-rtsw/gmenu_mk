@@ -1,11 +1,9 @@
 [Desktop Entry]
 Comment=
-Exec=yac.sh
+Exec=xterm -e bash -c "source ~/.bashrc && conda deactivate && yac.sh"
 Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/yac.png
 Name=YAC
 NoDisplay=false
-Path[$e]=
 StartupNotify=true
 Terminal=0
-TerminalOptions=
 Type=Application
