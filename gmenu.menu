@@ -6,12 +6,8 @@ Instruments.directory
 	GMOS-ISD.desktop
 	GNIRS-DM.desktop
 	GNIRS-ISD.desktop
-	GRACES-Terminal.desktop
 	IGRINS2-EngTools.desktop
 	IGRINS2-ObsApp.desktop 
-	NIFS-DM.desktop
-	NIFS-ISD.desktop
-	NIFS-ISD.desktop
 	NIRI-DM.desktop
 	NIRI-ISD.desktop
 	YAC.desktop
@@ -31,9 +27,8 @@ Guiders.directory
 	Altair-ISD.desktop
 	HRWFS.desktop
 	LGSAO.desktop
-	OIWFS.desktop
 	OIWFS-GMOS.desktop
-	OIWFS-NIFS.desktop
+	OIWFS-NIRI.desktop
 	PWFS1.desktop
 	PWFS2.desktop
 	YAC.desktop
@@ -47,7 +42,6 @@ Laser.directory
 	BTO.desktop
 	LGSAO.desktop
 	lgsst.desktop
-	lhandset.desktop
 	LHX.desktop
 	LIS.desktop
 	LTCSS.desktop
@@ -90,7 +84,6 @@ Utilities.directory
 	Consoles-GUI.desktop
 	DHS.desktop
 	GEP.desktop
-	GHSD.desktop
 	Scripts.desktop
 	StripTool.desktop
 	THS.desktop

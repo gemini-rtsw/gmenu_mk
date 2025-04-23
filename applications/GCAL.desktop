@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=
-#Exec=iocstats gcal
+Exec=gcal_dm.sh
 Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/gcal.png
 Name=GCAL
 NoDisplay=false
