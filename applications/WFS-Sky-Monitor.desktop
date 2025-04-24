@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=
-#Exec="BOKEH_BROWSER=firefox bokeh serve --port 5008 --show /home/telops/perm/bin-sos/WFSSkyMonitor\n"
+Exec=xterm -e 'BOKEH_BROWSER=firefox bokeh serve --port 5008 --show /home/telops/perm/bin-sos/WFSSkyMonitor'
 Icon=/home/telops/sciops/gempyops/scripts/WFSSkyMonitor/static/favicon.png
 Name=WFS Sky Monitor
 NoDisplay=false
