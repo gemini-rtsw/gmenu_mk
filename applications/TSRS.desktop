@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=
-#Exec=tsrs
+Exec=ssh telops@mkotelops-lv1 'tsrs'
 Name=TSRS
 NoDisplay=false
 Path[$e]=

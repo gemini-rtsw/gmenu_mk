@@ -1,12 +1,7 @@
 [Desktop Entry]
-Comment=
 Exec=firefox "http://gnltts.hi.gemini.edu:8080/ltts/app#!alarms"
-GenericName=
 Icon=google-chrome
 Name=LTTS
 NoDisplay=false
-Path[$e]=
 StartupNotify=true
-Terminal=0
-TerminalOptions=
 Type=Application

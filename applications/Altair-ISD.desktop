@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=
-Exec=altairISDstart
+Exec=ssh telops@mkotelops-lv1 'altairISDstart'
 Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/altair-red.png
 Name=Altair ISD
 NoDisplay=false
