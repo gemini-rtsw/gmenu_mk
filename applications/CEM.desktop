@@ -1,12 +1,7 @@
 [Desktop Entry]
-Comment=
 Exec=vncviewer -Shared 10.2.5.132
-GenericName=
 Icon=tigervnc
 Name=CEM KVM
 NoDisplay=false
-Path[$e]=
 StartupNotify=true
-Terminal=0
-TerminalOptions=
 Type=Application
