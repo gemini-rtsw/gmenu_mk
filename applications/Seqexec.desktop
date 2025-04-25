@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=
-Exec=seqexec
+Exec=ssh -X telops@hbftelops-lv1 seqexec
 Icon=media-playback-start
 Name=Seqexec
 NoDisplay=false
