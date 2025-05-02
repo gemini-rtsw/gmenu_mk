@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=
-Exec=tcc.sh
+Exec=tcc
 Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/tcc.png
 Name=TCC
 NoDisplay=false
