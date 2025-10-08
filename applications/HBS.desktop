@@ -1,0 +1,6 @@
+[Desktop Entry]
+Comment=
+Exec=/gemsoft/bin/hbs_dm.sh
+Name=HBS
+StartupNotify=true
+Type=Application
