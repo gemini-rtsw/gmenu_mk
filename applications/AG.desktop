@@ -2,6 +2,6 @@
 Comment=
 Exec=ag_dm.sh
 Icon=/usr/share/cinnamon/applets/gmenu@noirlab.edu/icons/ag.png
-Name=AG
+Name=A&G
 StartupNotify=true
 Type=Application
