@@ -4,7 +4,7 @@
 
 Name:           %{name}
 Version:        1.1
-Release:        1.git.%{git_hash}%{?dist}
+Release:        2.git.%{git_hash}%{?dist}
 Summary:        MK files for Cinnamon Gmenu
 
 License:        MIT
@@ -55,6 +55,14 @@ rm -rf %{buildroot}/usr/share/cinnamon/applets/gmenu@noirlab.edu/.github
 # Intentionally empty: no headers or build artifacts to ship.
 
 %changelog
+* Fri Jul 31 2026 Hawi Stecher <hawi.stecher@noirlab.edu> - 1.1-2
+- GNFR-75106: fix the StripTool menu entry, which never launched on EL9.
+  It ran "python2 $HOME/sciops/das/bin-gn/showstrip.py"; EL9 ships no
+  python2 at all. Point it at /gemsoft/opt/ssaTools/scripts/showstrip
+  (owned by ssaTools-2021A) by absolute path -- a bare command would rely
+  on the Cinnamon session inheriting the interactive PATH, and the
+  "showstrip" that works in a terminal is only a shell alias.
+
 * Fri Jul 31 2026 Hawi Stecher <hawi.stecher@noirlab.edu> - 1.1-1
 - Migrate to the shared gemini-rtsw-ci GitHub pipeline (EL9)
 - Replace unresolvable %%{auto_version}/%%{auto_release} macros with a real

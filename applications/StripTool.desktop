@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=
-Exec=python2 /home/telops/sciops/das/bin-gn/showstrip.py
+Exec=/gemsoft/opt/ssaTools/scripts/showstrip
 Name=StripTool
 NoDisplay=false
 Path[$e]=
