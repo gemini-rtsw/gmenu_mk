@@ -4,7 +4,7 @@
 
 Name:           %{name}
 Version:        1.1
-Release:        2.git.%{git_hash}%{?dist}
+Release:        3.git.%{git_hash}%{?dist}
 Summary:        MK files for Cinnamon Gmenu
 
 License:        MIT
@@ -55,6 +55,12 @@ rm -rf %{buildroot}/usr/share/cinnamon/applets/gmenu@noirlab.edu/.github
 # Intentionally empty: no headers or build artifacts to ship.
 
 %changelog
+* Thu Nov 05 2026 Hawi Stecher <hawi.stecher@noirlab.edu> - 1.1-3
+- REL-5068: point the G menu Weather Alarm entry at the new WAM
+  (/home/telops/perm/sunny/bin/WAM/wam.py) instead of the old
+  weatherAlarm.sh. Absolute path, and the WAM dir as working dir so
+  wam.py finds wam.ini.
+
 * Fri Jul 31 2026 Hawi Stecher <hawi.stecher@noirlab.edu> - 1.1-2
 - GNFR-75106: fix the StripTool menu entry, which never launched on EL9.
   It ran "python2 $HOME/sciops/das/bin-gn/showstrip.py"; EL9 ships no
