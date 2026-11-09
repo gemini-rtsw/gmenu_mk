@@ -1,10 +1,9 @@
 [Desktop Entry]
 Comment=WAM weather alarm (wam.py)
-Exec=/home/telops/perm/sunny/bin/WAM/wam.py
+Exec=sh -c 'cd /home/telops/perm/sunny/bin/WAM && exec ./wam.py'
 Icon=weather-clouds-night
 Name=Weather Alarm
 NoDisplay=false
-Path=/home/telops/perm/sunny/bin/WAM
 StartupNotify=true
 Terminal=false
 Type=Application
