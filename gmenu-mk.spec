@@ -4,7 +4,7 @@
 
 Name:           %{name}
 Version:        1.1
-Release:        3.git.%{git_hash}%{?dist}
+Release:        4.git.%{git_hash}%{?dist}
 Summary:        MK files for Cinnamon Gmenu
 
 License:        MIT
@@ -55,6 +55,13 @@ rm -rf %{buildroot}/usr/share/cinnamon/applets/gmenu@noirlab.edu/.github
 # Intentionally empty: no headers or build artifacts to ship.
 
 %changelog
+* Mon Nov 09 2026 Hawi Stecher <hawi.stecher@noirlab.edu> - 1.1-4
+- REL-5068: WAM opened from the G menu made no sound. The gmenu applet
+  runs only the Exec= line (Util.spawnCommandLine) and ignores Path=,
+  so wam.py started in $HOME and could not find the ./rainthun.wav and
+  ./kalihi_hwamei.wav sounds that wam.ini names relative to the WAM
+  directory. Exec now changes into that directory before starting it.
+
 * Thu Nov 05 2026 Hawi Stecher <hawi.stecher@noirlab.edu> - 1.1-3
 - REL-5068: point the G menu Weather Alarm entry at the new WAM
   (/home/telops/perm/sunny/bin/WAM/wam.py) instead of the old
